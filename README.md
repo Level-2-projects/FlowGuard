@@ -30,4 +30,18 @@ FlowGuard helps small project teams plan work, understand task dependencies, ide
 This repository currently contains the project documentation and design artifacts. Implementation status should be updated by the team as development progresses.
 
 ## Team
-Add the names and roles of all team members here.
+John Youssef Faiez.
+Hussien Antar Hussein.
+Abdelaziz Kholif.
+## Project Structure
+
+- README.md
+- CONCEPT_AND_TOOLS.md
+- REQUIREMENTS.md
+- requirements.txt
+- docs/
+  - designs/
+    - DESIGN_DIAGRAMS.md
+  - ui-ux/
+    - UI_UX.md
+    - FIGMA_LINK.md
